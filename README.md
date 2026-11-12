@@ -30,9 +30,4 @@ align="right"><font color="slate grey">I/ Một số thông tin cơ bản:</font
 <img src="a.jpg"><img src="b.jpg">
 </p>
 <p>- Đây là trang cá nhân facebook của mình:</p>
-<a href="https://www.facebook.com/share/1F9zCZ9znF/?mibextid=wwXIfr"
-target="_blank">
-<p><img src="c.jpg"
-width="80">
-</p>
-</a>
+<p>https://www.facebook.com/share/1F9zCZ9znF/?mibextid=wwXIfr</p>
