@@ -15,7 +15,7 @@ align="right"><font color="slate grey">I/ Một số thông tin cơ bản:</font
 <p>- Đây là cầu thủ bóng đá yêu thích nhất của mình</p>
 <img src="123.jpg">
 <p>- Đây là bài hát yêu thích của mình<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QxXYWMIQAcQ?si=bt5h3-pTjNerTUom" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QxXYWMIQAcQ?si=QaXbA4EJ_ALOkmby" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p style="color: brown">III/ Các trường đại học mơ ước:
 <p>- Vì mình dự định thi khối ngành kĩ thuật nên đây là những ngôi trường mình đang muốn hướng đến: </p>
 <ul>
@@ -30,8 +30,5 @@ align="right"><font color="slate grey">I/ Một số thông tin cơ bản:</font
 <img src="a.jpg"><img src="b.jpg">
 </p>
 <p>- Đây là trang cá nhân facebook của mình:</p>
-<a href="https://www.facebook.com/share/1F9zCZ9znF/?mibextid=wwXIfr"
-target="_blank">
-<img src="c.jpg"
-width="80">
+<p>https://www.facebook.com/share/1F9zCZ9znF/?mibextid=wwXIfr</p>
 </a>
